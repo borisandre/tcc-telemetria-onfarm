@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados grandes
+data/raw/
+data/normalized/
+data/metrics/
+data/outputs/
+
+# OS
+.DS_Store
+Thumbs.db
